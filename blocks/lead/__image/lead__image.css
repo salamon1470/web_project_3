@@ -1,0 +1,33 @@
+.lead__image {
+    max-width: 984px;
+    max-height: 615px;
+    padding-top: 64px;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__image {
+        max-width: 928px;
+        max-height: 580px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead__image {
+        max-width: 768px;
+        max-height: 480px;
+    }
+}
+
+@media (max-width: 425px) {
+    .lead__image {
+        max-width: 425px;
+        max-height: 62.5%;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__image {
+        max-width: 320px;
+        max-height: 200px;
+    }
+}

@@ -1,0 +1,33 @@
+.footer__copyright {
+    color: white;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 68.24%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer__copyright {
+        margin-left: 53.9%;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer__copyright {
+        margin-left: 43.49%;
+    }
+}
+
+@media (max-width: 425px) {
+    .footer__copyright {
+        margin: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer__copyright {
+        margin: 0;
+    }
+}
