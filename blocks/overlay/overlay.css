@@ -1,4 +1,4 @@
-.cover__overlay {
+.overlay {
     width: 100%;
     position: absolute;
     top: 0%;
@@ -10,6 +10,6 @@
     box-sizing: border-box;
 }
 
-.cover__overlay:hover {
+.overlay:hover {
     opacity: 0.8;
 }
