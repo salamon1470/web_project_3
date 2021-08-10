@@ -18,5 +18,5 @@ When making the project the following have been used:
 * Figma  
 
 **GitPages-link**
-
+https://salamon1470.github.io/web_project_3/
 
