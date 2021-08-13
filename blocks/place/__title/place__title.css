@@ -2,10 +2,10 @@
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     margin: 0;
-    font-family: Inter;
+    font-family: Inter-black;
     font-weight: 900;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 106%;
     color: white;
 }
 

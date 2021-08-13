@@ -1,7 +1,7 @@
 .place__paragraph {
     grid-column: 2/3;
     grid-row: 2/3;
-    max-width: 484px;
+    width: 100%;
     font-family: Inter;
     font-size: 18px;
     line-height: 163%;
@@ -25,7 +25,7 @@
 
 @media screen and (max-width: 1024px) {
     .place__paragraph {
-        max-width: 456px;
+        width: 100%;
     }
 }
 
@@ -61,7 +61,7 @@
         grid-row: 4 / 5;
         font-size: 16px;
         margin: 7px auto 0;
-        max-width: 92%;
+        width: 92%;
     }
     .place__paragraph:nth-of-type(2) {
         grid-column: 1 / 2;

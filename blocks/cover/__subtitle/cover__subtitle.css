@@ -6,8 +6,9 @@
     text-align: center;
     margin: 0 auto;
     color: white;
-    z-index: 2;
+    z-index: 3;
     box-sizing: border-box;
+    position: relative;
 }
 
 @media (max-width: 425px) {

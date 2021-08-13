@@ -6,6 +6,7 @@
     text-decoration-line: underline;
     color: white;
     transition: opacity 0.5s linear;
+    margin: 0;
 }
 
 .place__website_link:hover {
