@@ -4,27 +4,21 @@
     padding-top: 92px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1062px) {
     .places {
         width: calc(100% - 48px * 2);
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 872px) {
     .places {
         width: calc(100% - 24px * 2);
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 526px) {
     .places {
         width: 100%;
-    }
-}
-
-@media (max-width: 320px) {
-    .places {
         margin: 0;
-        width: 100%;
     }
 }

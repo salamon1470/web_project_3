@@ -1,32 +1,5 @@
 .header__logo {
     max-width: 190px;
     min-height: 44px;
-    margin-right: calc(100% - 132px * 2);
     box-sizing: border-box;
-}
-
-@media screen and (max-width: 1024px) {
-    .header__logo {
-        margin-right: calc(100% - 132px * 2);
-    }
-}
-
-@media (max-width: 768px) {
-    .header__logo {
-        margin-right: calc(100% - 132px * 2);
-    }
-}
-
-@media (max-width: 425px) {
-    .header__logo {
-        margin-right: calc(100% - 132px * 2);
-    }
-}
-
-@media (max-width: 320px) {
-    .header__logo {
-        margin-right: calc(100% - 132px * 2);
-        max-width: 156px;
-        min-height: 36px;
-    }
 }

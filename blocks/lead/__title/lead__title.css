@@ -1,7 +1,7 @@
 .lead__title {
     width: calc(100% - 132px * 2);
     color: white;
-    font-family: Inter-black;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
@@ -23,15 +23,7 @@
     }
 }
 
-@media (max-width: 425px) {
-    .lead__title {
-        width: calc(100% - 16px * 2);
-        font-size: 40px;
-        line-height: 44px;
-    }
-}
-
-@media (max-width: 320px) {
+@media (max-width: 563px) {
     .lead__title {
         width: calc(100% - 16px * 2);
         font-size: 40px;

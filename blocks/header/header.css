@@ -25,9 +25,3 @@
         width: calc(100% - 16px * 2);
     }
 }
-
-@media (max-width: 320px) {
-    .header {
-        width: calc(100% - 16px * 2);
-    }
-}

@@ -2,29 +2,21 @@
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     margin: 0;
-    font-family: Inter-black;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
     font-size: 72px;
     line-height: 106%;
     color: white;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 872px) {
     .place__title {
         font-size: 42px;
         line-height: 46px;
     }
 }
 
-@media (max-width: 425px) {
-    .place__title {
-        font-size: 32px;
-        line-height: 35px;
-        margin-left: 16px;
-    }
-}
-
-@media (max-width: 320px) {
+@media (max-width: 526px) {
     .place__title {
         font-size: 32px;
         line-height: 35px;
