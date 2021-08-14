@@ -3,3 +3,10 @@
     min-height: 44px;
     box-sizing: border-box;
 }
+
+@media (max-width: 425px) {
+    .header__logo {
+        max-width: 156px;
+        min-height: 36px;
+    }
+}

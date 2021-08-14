@@ -7,6 +7,7 @@
     font-size: 72px;
     line-height: 106%;
     color: white;
+    align-self: end;
 }
 
 @media (max-width: 872px) {

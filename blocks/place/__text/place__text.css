@@ -1,0 +1,14 @@
+.place__text {
+    grid-column: 2/3;
+    grid-row: 2/5;
+    margin-top: 23px;
+}
+
+@media (max-width: 526px) {
+    .place__text {
+        grid-column: 1 / 2;
+        grid-row: 4 / 7;
+        margin: 7px auto 0;
+        width: calc(100% - 16px * 2);
+    }
+}

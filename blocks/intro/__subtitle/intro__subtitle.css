@@ -9,6 +9,12 @@
     max-width: 690px;
 }
 
+@media (max-width:768px) {
+    .intro__subtitle {
+        min-width: 100%;
+    }
+}
+
 @media (max-width: 320px) {
     .intro__subtitle {
         line-height: 30px;
